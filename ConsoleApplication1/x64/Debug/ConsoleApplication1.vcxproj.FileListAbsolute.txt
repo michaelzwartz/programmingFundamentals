@@ -1,1 +1,2 @@
 C:\Users\Michael\source\repos\michaelzwartz\programmingFundamentals\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+C:\Users\Michael\source\repos\michaelzwartz\programmingFundamentals\programmingFundamentals\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

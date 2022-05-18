@@ -20,7 +20,7 @@ int main()
     cout << "Input a string and press enter" << endl;
     cin >> s;
 
-    cout << i << d << c << s;
+    cout << i <<" " << d << " " << c << " " << s;
     return 0;
 }
 
