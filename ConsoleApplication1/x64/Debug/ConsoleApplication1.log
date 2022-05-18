@@ -1,1 +1,5 @@
-﻿  ConsoleApplication1.vcxproj -> C:\Users\Michael\source\repos\michaelzwartz\programmingFundamentals\programmingFundamentals\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+﻿  ConsoleApplication1.cpp
+C:\Users\Michael\source\repos\michaelzwartz\programmingFundamentals\programmingFundamentals\ConsoleApplication1\ConsoleApplication1.cpp(16,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Michael\source\repos\michaelzwartz\programmingFundamentals\programmingFundamentals\ConsoleApplication1\ConsoleApplication1.cpp(12,10): warning C4101: 'c': unreferenced local variable
+C:\Users\Michael\source\repos\michaelzwartz\programmingFundamentals\programmingFundamentals\ConsoleApplication1\ConsoleApplication1.cpp(11,12): warning C4101: 'd': unreferenced local variable
+  ConsoleApplication1.vcxproj -> C:\Users\Michael\source\repos\michaelzwartz\programmingFundamentals\programmingFundamentals\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

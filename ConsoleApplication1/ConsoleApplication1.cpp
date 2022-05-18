@@ -2,6 +2,7 @@
 //
 
 #include <iostream>
+#include<String>
 using namespace std;
 
 int main()
@@ -11,16 +12,20 @@ int main()
     char c; 
     string s;
 
-    cout << "Input an intiger and press enter" << endl;
-    cin >> i;
-    cout << "Input a decimal and press enter" << endl;
+    s = "computer science";
+    i = s.length();
+
+
+    //cout << "Input an intiger and press enter" << endl;
+    //cin >> i;
+    /*cout << "Input a decimal and press enter" << endl;
     cin >> d;
     cout << "Input a character and press enter" << endl;
     cin >> c;
     cout << "Input a string and press enter" << endl;
     cin >> s;
-
-    cout << i <<" " << d << " " << c << " " << s;
+    i++;*/
+    cout << i;
     return 0;
 }
 
